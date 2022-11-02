@@ -1,0 +1,7 @@
+*******************************************
+BILL REPORT
+*******************************************
+There are a total of 6 items purchased
+There are most expensive item is C45 with price 185.75
+The least expensive item is H21 with price 29.25
+*******************************************
